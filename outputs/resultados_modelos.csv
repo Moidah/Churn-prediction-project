@@ -1,0 +1,3 @@
+modelo,auc_roc,avg_precision
+Regresión Logística,0.841377974114547,0.6306429901932226
+Random Forest,0.8436784727066057,0.6531506388337233
