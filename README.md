@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction
+#  Customer Churn Prediction
 
 Predicting customer churn on a real telecom dataset (7,043 customers) — comparing
 Logistic Regression vs. Random Forest, with proper evaluation for imbalanced classes.
